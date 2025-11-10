@@ -1,5 +1,5 @@
 # LightCNLib
-A lightweight convolutionary neural network library with built in LeNet
+A lightweight convolutionary neural network library with built in (Num/Cuda)py with built-in LeNet support
 
 # Usage 
 1. Navigate to LightCNLib
